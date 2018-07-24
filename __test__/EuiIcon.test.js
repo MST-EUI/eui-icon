@@ -10,7 +10,6 @@ test('EuiIcon should render correctly', () => {
 });
 
 test('EuiIcon props', () => {
-  // Render a checkbox with label in the document
   const euiIcon = shallow(<EuiIcon className="test" />);
   expect(euiIcon.find('.eui-icon')).toBeTruthy();
 });
