@@ -1,0 +1,18 @@
+.demo {
+  color: #333;
+  margin: 50px;
+  font-size: 14px;
+  .demo-li {
+    display: inline-block;
+    margin-right: 15px;
+    text-align: center;
+    .icon-name {
+      display: inline-block;
+      margin-top: 5px;
+      color: #666;
+    }
+  }
+  .icon {
+    font-size: 48px;
+  }
+}
