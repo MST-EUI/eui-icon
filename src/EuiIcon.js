@@ -1,7 +1,7 @@
 import React from 'react';
 import classnames from 'classnames';
 
-import './style/euiIcon.scss';
+import './style/index.scss';
 
 const { PropTypes } = React;
 

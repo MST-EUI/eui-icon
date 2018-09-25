@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import EuiIcon from '../dist';
+import Icon from '../src';
 import './demo.scss';
 
 class Demo extends React.Component {
@@ -18,7 +18,7 @@ class Demo extends React.Component {
         {
           iconArr.map(item => (
             <li className="demo-li" key={item}>
-              <EuiIcon type={item} /><br />
+              <Icon type={item} /><br />
               <span className="icon-name">{item}</span>
             </li>
           ))
