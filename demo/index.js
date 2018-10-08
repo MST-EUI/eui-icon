@@ -12,6 +12,8 @@ class Demo extends React.Component {
       'arrow-right',
       'close',
       'error',
+      'triangle-down',
+      'triangle-up',
     ];
     return (
       <ul className="demo">
