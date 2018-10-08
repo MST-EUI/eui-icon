@@ -1,3 +1,13 @@
+<a name="0.1.5"></a>
+## [0.1.5](https://github.com/MST-EUI/eui-icon/compare/v0.1.4...v0.1.5) (2018-10-08)
+
+
+### Bug Fixes
+
+* fixed style url issue ([30616ff](https://github.com/MST-EUI/eui-icon/commit/30616ff))
+
+
+
 <a name="0.1.4"></a>
 ## [0.1.4](https://github.com/MST-EUI/eui-icon/compare/v0.1.3...v0.1.4) (2018-10-08)
 
