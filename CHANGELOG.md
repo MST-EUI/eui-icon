@@ -1,3 +1,8 @@
+<a name="0.1.6"></a>
+## [0.1.6](https://github.com/MST-EUI/eui-icon/compare/v0.1.5...v0.1.6) (2018-10-09)
+
+
+
 <a name="0.1.5"></a>
 ## [0.1.5](https://github.com/MST-EUI/eui-icon/compare/v0.1.4...v0.1.5) (2018-10-08)
 
