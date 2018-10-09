@@ -12,12 +12,14 @@ export default class EuiIcon extends React.Component {
     type: PropTypes.string,
     style: PropTypes.object,
     className: PropTypes.string,
+    prefixCls: PropTypes.string,
   };
 
   static defaultProps = {
     type: '',
     style: {},
     className: '',
+    prefixCls: 'eui-icon',
   };
 
   render() {
@@ -25,11 +27,12 @@ export default class EuiIcon extends React.Component {
       type,
       style,
       className,
+      prefixCls,
     } = this.props;
 
     return (
       <i
-        className={classnames('eui-con icon iconfont', { [`icon-${type}`]: !!type }, { [className]: !!className })}
+        className={classnames({ [`${prefixCls}`]: true }, 'icon iconfont', { [`icon-${type}`]: !!type }, { [className]: !!className })}
         style={style}
       />
     );

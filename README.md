@@ -18,6 +18,7 @@ import Icon from '@mistong/eui-icon';
 
 |参数|说明|类型|默认值|
 |---|----|---|------|
-|type|icon 类型(`info` `warning` 等，[详见 iconfont](http://www.iconfont.cn/manage/index?manage_type=myprojects&projectId=725751&keyword=)（去掉 `icon` 即为相应类型 ）)|-|
-|style|icon 样式|object|{}|
-|className|自定义样式名|string|-|
+|type|icon 类型(`info` `warning` `success` `arrow-right` `close` `error` `triangle-down` `triangle-up`)|string|-|
+|className|添加自定义class|string|''|
+|style|自定义样式|object|`{}`|
+|prefixCls|样式名前缀|string|`eui-icon`|
