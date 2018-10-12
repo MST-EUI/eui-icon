@@ -1,3 +1,13 @@
+<a name="0.1.8"></a>
+## [0.1.8](https://github.com/MST-EUI/eui-icon/compare/v0.1.7...v0.1.8) (2018-10-12)
+
+
+### Features
+
+* demo update ([6aafa32](https://github.com/MST-EUI/eui-icon/commit/6aafa32))
+
+
+
 <a name="0.1.7"></a>
 ## [0.1.7](https://github.com/MST-EUI/eui-icon/compare/v0.1.6...v0.1.7) (2018-10-09)
 

@@ -1,6 +1,6 @@
 {
   "name": "@mistong/eui-icon",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "eui-iocn component",
   "main": "dist/index.js",
   "scripts": {
